@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "question": "JavaScript-da qaysi kalit so'z yordamida o'zgarmas (read-only) o'zgaruvchi e'lon qilinadi?",
+        "options": ["var", "let", "const", "def"],
+        "correctAnswer": "const"
+    },
+    {
+        "id": 2,
+        "question": "HTML-da JavaScript fayli qaysi teg ichida ulanadi?",
+        "options": ["<link>", "<script>", "<js>", "<style>"],
+        "correctAnswer": "<script>"
+    },
+    {
+        "id": 3,
+        "question": "Array.push() metodi massivga elementni qayerdan qo'shadi?",
+        "options": [
+            "Massiv boshidan",
+            "Massiv o'rtasidan",
+            "Massiv oxiridan",
+            "Tasodifiy joydan"
+        ],
+        "correctAnswer": "Massiv oxiridan"
+    }
+]
